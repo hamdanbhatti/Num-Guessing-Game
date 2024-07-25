@@ -12,5 +12,5 @@ NumGuessGame is an interactive command-line game where players try to guess a ra
 2. You'll be prompted to enter your guess.
 3. If your guess matches the computer's number, you win!
 4. If not, you can choose to continue playing or exit the game.
-5. Keep guessing until you get it right or decide to stop.<br>
-This simple yet fun game is perfect for quick entertainment and testing your luck. It's created by Muhammad Hamdan and serves as a great example of interactive command-line applications using modern JavaScript technologies.
+5. Keep guessing until you get it right or decide to stop.<br><br><br>
+  * This simple yet fun game is perfect for quick entertainment and testing your luck. It's created by Muhammad Hamdan and serves as a great example of interactive command-line applications using modern JavaScript technologies.
